@@ -1,0 +1,9 @@
+.navBar{
+    display: flex;
+    justify-content: center;
+    gap: 3rem;
+    /* border: 1px red solid; */
+}
+.navBar a{
+    text-decoration: none;
+}
