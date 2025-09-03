@@ -1,4 +1,4 @@
-// File: C:\Users\34696\Desktop\udemy\nextJS\Max-Section-4\app\layout.js
+// File: D:\Escritorio\mycode\UDEMY\Mazimilian\News app\Next-News-App\app\layout.js
 import * as entry from '../../../app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

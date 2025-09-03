@@ -10,7 +10,7 @@ export default function NewsPost({ params }) {
     // return <NewsNotFoundPage />
     notFound(); //next.js automatically handles the error by looking for the closest not-found.js file
   }
-  console.log("newsSlug", newsSlug);
+  // console.log("newsSlug", newsSlug);
 
   return (
     <article className="news-article">
