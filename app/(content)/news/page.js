@@ -4,7 +4,7 @@ import { getAllNews } from "@/lib/news";
 // import { useEffect, useState } from "react";
 
 export default async function News({ slug }) {
-  const news = getAllNews()
+  const news = await getAllNews()
   return (
     <>
       <h1>News page</h1>
